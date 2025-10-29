@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[RoboSoft-Innovations/.github/RSI_Logo_White.png](https://github.com/RoboSoft-Innovations/.github/blob/main/RSI_Logo_White.png?raw=true)" width="160" alt="RoboSoft Innovations Logo" />
+  <img src="https://github.com/RoboSoft-Innovations/.github/blob/main/RSI_Logo_White.png" width="160" alt="RoboSoft Innovations Logo" />
 </p>
 
 <p align="center"><b>Innovating Tomorrow, Engineered Today.</b></p>
