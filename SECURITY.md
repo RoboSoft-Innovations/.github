@@ -3,7 +3,7 @@
 For all projects under **RoboSoft Innovations (SMC-Private) Limited**.
 
 ## 📢 Reporting a Vulnerability
-Email [robosoftinnovations@outlook.com](mailto:robosoftinnovations@outlook.com) with:
+Email [robosoftinnovations@protonmail.com](mailto:robosoftinnovations@protonmail.com) with:
 - Repository name
 - Description and reproduction steps
 - Impact assessment
