@@ -1,3 +1,4 @@
+```markdown
 <p align="center">
   <img src="../RSI_Logo_White.png" alt="RoboSoft Innovations" width="180">
 </p>
@@ -10,7 +11,7 @@
 
 <p align="center">
 Engineering secure cyber-physical systems, embedded platforms, industrial IoT,
-robotics, AI, and software solutions for research and industry.
+robotics, artificial intelligence, and software solutions for research and industry.
 </p>
 
 ---
@@ -19,9 +20,7 @@ robotics, AI, and software solutions for research and industry.
 
 RoboSoft Innovations (SMC-Private) Limited is an engineering and technology company focused on transforming research and innovative ideas into secure, deployable technologies.
 
-We develop secure, scalable, and production-ready solutions across embedded systems, cyber-physical systems, industrial automation, edge computing, cybersecurity, artificial intelligence, and modern software engineering.
-
-Rather than treating research as an academic exercise, we engineer technologies that can be deployed in laboratories, industries, educational institutions, and commercial environments.
+Our mission is to bridge academic research, industrial requirements, and modern software engineering by developing practical, scalable, and production-ready solutions for real-world applications.
 
 ---
 
@@ -30,18 +29,18 @@ Rather than treating research as an academic exercise, we engineer technologies 
 - Cyber-Physical Systems (CPS)
 - Embedded Systems & Edge Computing
 - Industrial IoT
+- Secure Software Engineering
 - Robotics & Automation
 - Artificial Intelligence & Computer Vision
-- Secure Software Engineering
 - Cybersecurity
 
 ---
 
 ## Products & Platforms
 
-Our GitHub organization hosts software, tools, and infrastructure developed by RoboSoft Innovations.
+Our GitHub organization hosts software, engineering tools, and technology platforms developed by RoboSoft Innovations.
 
-Current development includes:
+Current initiatives include:
 
 - 🚀 RSI Edge Core
 - 🌐 Official RSI Website
@@ -49,13 +48,29 @@ Current development includes:
 - 🔒 Secure Software Infrastructure
 - 🛠️ Internal Engineering Utilities
 
-Additional open-source projects and developer resources will be published as our product portfolio grows.
+As our product portfolio grows, additional open-source projects and developer resources will be published here.
+
+---
+
+## Technology Stack
+
+Our engineering work primarily involves technologies including:
+
+- Rust
+- Python
+- Embedded Linux
+- ROS 2
+- Docker & Containers
+- MQTT
+- REST APIs
+- PostgreSQL / SurrealDB
+- GitHub Actions & CI/CD
 
 ---
 
 ## Engineering Principles
 
-Every project at RSI is built around five principles:
+Every project developed at RoboSoft Innovations is guided by five engineering principles:
 
 - Security by Design
 - Reliability
@@ -63,38 +78,39 @@ Every project at RSI is built around five principles:
 - Practical Deployment
 - Long-Term Maintainability
 
+These principles influence every stage of development—from architecture and implementation to deployment and long-term support.
+
 ---
 
-## Collaboration
+## Work With Us
 
 We welcome collaboration with:
 
-- Universities
-- Researchers
-- Students
-- Startups
+- Universities & Research Institutions
 - Industry Partners
-- Open Source Contributors
+- Startups
+- Developers & Open Source Contributors
+- Students & Engineering Interns
 
-If you're interested in building secure engineering solutions, we'd love to connect.
+Whether you're interested in collaborative research, product development, industrial solutions, or open-source contributions, we'd be glad to connect.
 
 ---
 
 ## Connect With Us
 
-🌐 Website  
+🌐 **Website**  
 https://robosoftinnovations.com
 
-📧 Email  
+📧 **Email**  
 robosoftinnovations@protonmail.com
 
-📺 YouTube  
+📺 **YouTube**  
 https://www.youtube.com/@RSI-TechHub
 
-📷 Instagram  
+📷 **Instagram**  
 https://www.instagram.com/robosoftinnovations_cybertech/
 
-📘 Facebook  
+📘 **Facebook**  
 https://www.facebook.com/profile.php?id=615878840
 
 ---
@@ -102,3 +118,4 @@ https://www.facebook.com/profile.php?id=615878840
 <p align="center">
 <b>Innovating Tomorrow. Engineered Today.</b>
 </p>
+```
