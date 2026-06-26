@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="RSI_Logo_White.png" alt="RoboSoft Innovations" width="180">
+  <img src="../RSI_Logo_White.png" alt="RoboSoft Innovations" width="180">
 </p>
 
 <h1 align="center">RoboSoft Innovations</h1>
