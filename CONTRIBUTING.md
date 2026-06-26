@@ -48,5 +48,5 @@ Major changes require approval via code review.
 
 🔐 Security
 
-Report vulnerabilities privately to robosoftinnovations@outlook.com
+Report vulnerabilities privately to robosoftinnovations@protonmail.com
 > Contributing to RSI means joining a mission to engineer smarter, safer, and more connected technologies.
