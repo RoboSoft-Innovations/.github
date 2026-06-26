@@ -17,7 +17,7 @@ robotics, AI, and software solutions for research and industry.
 
 ## About Us
 
-RoboSoft Innovations (SMC-Private) Limited is an engineering and technology company focused on transforming research into deployable products.
+RoboSoft Innovations (SMC-Private) Limited is an engineering and technology company focused on transforming research and innovative ideas into secure, deployable technologies.
 
 We develop secure, scalable, and production-ready solutions across embedded systems, cyber-physical systems, industrial automation, edge computing, cybersecurity, artificial intelligence, and modern software engineering.
 
