@@ -37,7 +37,7 @@ Rather than treating research as an academic exercise, we engineer technologies 
 
 ---
 
-## Current Focus
+## Products & Platforms
 
 Our GitHub organization hosts software, tools, and infrastructure developed by RoboSoft Innovations.
 
