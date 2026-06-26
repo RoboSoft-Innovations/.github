@@ -14,6 +14,6 @@ We are committed to a respectful, inclusive, and professional environment across
 - Spam or disruptive content  
 
 ## 🧭 Reporting
-Report concerns confidentially via [robosoftinnovations@outlook.com](mailto:robosoftinnovations@outlook.com).
+Report concerns confidentially via [robosoftinnovations@protonmain.com](mailto:robosoftinnovations@protonmail.com).
 
 All reports will be handled respectfully and privately.
