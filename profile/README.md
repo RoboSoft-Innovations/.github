@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <img src="../RSI_Logo_White.png" alt="RoboSoft Innovations" width="180">
 </p>
@@ -118,4 +117,3 @@ https://www.facebook.com/profile.php?id=615878840
 <p align="center">
 <b>Innovating Tomorrow. Engineered Today.</b>
 </p>
-```
