@@ -30,7 +30,7 @@ Submissions are reviewed for originality, completeness, and technical quality.
 Certificates or acknowledgments are issued based on performance evaluations.
 
 📩 Questions or project discussions?
-Use the relevant repository’s Discussions tab or email us at robosoftinnovations@outlook.com
+Use the relevant repository’s Discussions tab or email us at robosoftinnovations@protonmail.com
 
 ---
 
